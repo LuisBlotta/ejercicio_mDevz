@@ -1,4 +1,4 @@
-# ejercicio_mDevz
+# Ejercicio_mDevz
 
 Ejercicio basado en PHP y MySQL
 
@@ -15,7 +15,7 @@ Ejecutar el script en la base de datos para crear la tabla "Historial" que luego
 Una vez acabado esto, el sistema ya se encuentra en condiciones de utilizar.
 El archivo de la página principal es busqueda.php
 
-## Aclaracion ##
+## Aclaración ##
 
 Notarán que hay una segunda consulta a otro web service que se llama Random_user, recurrí a dicho servicio porque se me hizo imposible mostrar la imagen que viene en el Json otorgado por Twitter.
 Verán en el el archivo "extraer_datos.php" linea 8, que obtengo la URL pero a la hora de mostrar la imagen no lo hace.
