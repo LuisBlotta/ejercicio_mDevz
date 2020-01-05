@@ -1,0 +1,117 @@
+h1{
+    color: #00acee;
+    text-align: center;
+    font-family: 'Arial Rounded MT Bold';
+}
+.twitter{
+    width: 100px;
+}
+.nav-derecha{
+    color: red;
+    text-align: right!important;
+}
+#titulo{
+    display: none;
+}
+.container{
+
+    margin-top: 20px;
+}
+#palabraClave{
+    border-radius: 10px!important;
+}
+#botonEnviar{
+    border-radius: 10px!important;
+
+}
+.input-group-text{
+    width: 100%;
+}
+h4{
+    margin: auto;
+    margin-right: 20px;
+
+}
+.flex-container{
+display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#palabraClave{
+    margin: auto;
+    text-align: center;
+    margin-right: 20px;
+    margin-bottom: 15px;
+}
+.img_user{
+    text-align: center;
+    width: 100px;
+    border-radius: 20px 20px 20px 20px;
+    -moz-border-radius: 20px 20px 20px 20px;
+    -webkit-border-radius: 20px 20px 20px 20px;
+    border: 0px solid #000000;
+}
+.card-body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.datos_tweet {
+    width: 100%;
+    margin-bottom: 15px;
+    text-align: center;
+
+}
+#aviso{
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+@media only screen and (min-width: 65em){
+
+    .img_user{
+        text-align: left;
+        margin: 10%;
+        width: 120px;
+    }
+
+    .card-body{
+        display: flex;  justify-content: space-between;
+
+    }
+    .agrupador{
+     width: 20%;
+    }
+    .card{
+        margin: auto;
+        width: 60%;
+    }
+    #img_user{
+        width: 15%;
+    }
+    #username{
+        width: 100%;
+        margin-top: 15px;
+
+    }
+    #screen_name{
+        width: 100%;
+        margin-top: -15px;
+    }
+    #text{
+        width: 40%;
+    }
+
+}
+@media only screen and (min-width: 29em){
+    #titulo{
+        display: inline;
+    }
+    #palabraClave{
+        border-radius: 10px 0px 0px 10px!important;
+    }
+    #botonEnviar{
+        border-radius: 0px 10px 10px 0px!important;
+
+    }
+}

@@ -1,0 +1,558 @@
+[2020-01-05 10:39:48]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:39:48]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:39:48]	Response status code: 200
+[2020-01-05 10:42:09]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:42:09]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:42:09]	Response status code: 200
+[2020-01-05 10:42:28]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:42:28]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:42:28]	Response status code: 200
+[2020-01-05 10:42:35]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:42:35]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:42:35]	Response status code: 200
+[2020-01-05 10:43:45]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:43:45]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:43:45]	Response status code: 200
+[2020-01-05 10:46:00]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:46:00]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:46:00]	Response status code: 200
+[2020-01-05 10:47:36]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:47:36]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:47:36]	Response status code: 200
+[2020-01-05 10:48:06]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:48:06]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:48:06]	Response status code: 200
+[2020-01-05 10:48:21]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:48:21]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:48:21]	Response status code: 200
+[2020-01-05 10:48:43]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:48:43]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:48:43]	Response status code: 200
+[2020-01-05 10:48:54]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:48:54]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:48:54]	Response status code: 200
+[2020-01-05 10:49:00]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:49:00]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:49:00]	Response status code: 200
+[2020-01-05 10:49:05]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:49:05]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:49:05]	Response status code: 200
+[2020-01-05 10:49:18]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:49:18]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:49:18]	Response status code: 200
+[2020-01-05 10:49:24]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:49:24]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:49:24]	Response status code: 200
+[2020-01-05 10:49:29]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:49:29]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:49:29]	Response status code: 200
+[2020-01-05 10:49:41]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:49:41]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:49:41]	Response status code: 200
+[2020-01-05 10:49:45]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:49:45]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:49:45]	Response status code: 200
+[2020-01-05 10:49:52]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:49:52]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:49:52]	Response status code: 200
+[2020-01-05 10:49:58]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:49:58]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:49:58]	Response status code: 200
+[2020-01-05 10:50:03]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:50:03]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:50:03]	Response status code: 200
+[2020-01-05 10:50:13]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:50:13]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:50:13]	Response status code: 200
+[2020-01-05 10:50:23]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:50:23]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:50:23]	Response status code: 200
+[2020-01-05 10:50:55]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:50:55]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:50:55]	Response status code: 200
+[2020-01-05 10:51:45]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:51:45]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:51:45]	Response status code: 200
+[2020-01-05 10:52:11]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:52:11]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:52:11]	Response status code: 200
+[2020-01-05 10:52:44]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:52:44]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:52:44]	Response status code: 200
+[2020-01-05 10:52:51]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:52:51]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:52:51]	Response status code: 200
+[2020-01-05 10:53:25]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:53:25]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:53:25]	Response status code: 200
+[2020-01-05 10:54:32]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:54:32]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:54:32]	Response status code: 200
+[2020-01-05 10:54:56]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:54:56]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:54:56]	Response status code: 200
+[2020-01-05 10:55:04]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:55:04]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:55:04]	Response status code: 200
+[2020-01-05 10:56:14]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:56:14]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:56:14]	Response status code: 200
+[2020-01-05 10:56:54]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:56:54]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:56:54]	Response status code: 200
+[2020-01-05 10:57:11]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:57:11]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:57:11]	Response status code: 200
+[2020-01-05 10:57:17]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:57:17]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:57:17]	Response status code: 200
+[2020-01-05 10:57:29]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:57:29]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:57:29]	Response status code: 200
+[2020-01-05 10:58:40]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:58:40]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:58:40]	Response status code: 200
+[2020-01-05 10:58:53]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:58:53]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:58:53]	Response status code: 200
+[2020-01-05 10:59:07]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:59:07]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:59:07]	Response status code: 200
+[2020-01-05 10:59:25]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:59:25]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:59:25]	Response status code: 200
+[2020-01-05 10:59:39]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:59:39]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:59:39]	Response status code: 200
+[2020-01-05 10:59:42]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:59:42]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:59:42]	Response status code: 200
+[2020-01-05 10:59:46]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=Palabra_clave&count=8&lang=es
+[2020-01-05 10:59:46]	Request header: GET /1.1/search/tweets.json?q=Palabra_clave&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:59:46]	Response status code: 200
+[2020-01-05 10:59:58]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 10:59:58]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 10:59:58]	Response status code: 200
+[2020-01-05 11:01:07]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 11:01:07]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 11:01:07]	Response status code: 200
+[2020-01-05 11:02:42]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 11:02:42]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 11:02:42]	Response status code: 200
+[2020-01-05 11:02:44]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=perro&count=8&lang=es
+[2020-01-05 11:02:44]	Request header: GET /1.1/search/tweets.json?q=perro&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 11:02:44]	Response status code: 200
+[2020-01-05 11:04:47]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 11:04:47]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 11:04:47]	Response status code: 200
+[2020-01-05 11:04:49]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=gato&count=8&lang=es
+[2020-01-05 11:04:49]	Request header: GET /1.1/search/tweets.json?q=gato&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 11:04:49]	Response status code: 200
+[2020-01-05 11:04:59]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=gato&count=8&lang=es
+[2020-01-05 11:04:59]	Request header: GET /1.1/search/tweets.json?q=gato&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 11:04:59]	Response status code: 200
+[2020-01-05 11:06:18]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 11:06:18]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 11:06:18]	Response status code: 200
+[2020-01-05 11:20:46]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 11:20:46]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 11:20:46]	Response status code: 200
+[2020-01-05 11:20:59]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 11:20:59]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 11:20:59]	Response status code: 200
+[2020-01-05 11:21:41]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=perro&count=8&lang=es
+[2020-01-05 11:21:41]	Request header: GET /1.1/search/tweets.json?q=perro&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 11:21:41]	Response status code: 200
+[2020-01-05 11:28:24]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=perro&count=8&lang=es
+[2020-01-05 11:28:24]	Request header: GET /1.1/search/tweets.json?q=perro&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 11:28:24]	Response status code: 200
+[2020-01-05 11:29:38]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=perro&count=8&lang=es
+[2020-01-05 11:29:38]	Request header: GET /1.1/search/tweets.json?q=perro&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 11:29:38]	Response status code: 200
+[2020-01-05 11:29:46]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=perro&count=8&lang=es
+[2020-01-05 11:29:46]	Request header: GET /1.1/search/tweets.json?q=perro&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 11:29:46]	Response status code: 200
+[2020-01-05 11:30:24]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=perro&count=8&lang=es
+[2020-01-05 11:30:24]	Request header: GET /1.1/search/tweets.json?q=perro&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 11:30:24]	Response status code: 200
+[2020-01-05 11:30:49]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=perro&count=8&lang=es
+[2020-01-05 11:30:49]	Request header: GET /1.1/search/tweets.json?q=perro&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 11:30:49]	Response status code: 200
+[2020-01-05 11:31:00]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=programacion&count=8&lang=es
+[2020-01-05 11:31:00]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 11:31:00]	Response status code: 200
+[2020-01-05 11:31:12]	Ejecutando request GET a https://api.twitter.com/1.1/search/tweets.json?q=Caballo&count=8&lang=es
+[2020-01-05 11:31:12]	Request header: GET /1.1/search/tweets.json?q=Caballo&count=8&lang=es HTTP/2
+Host: api.twitter.com
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
+
+
+[2020-01-05 11:31:12]	Response status code: 200
