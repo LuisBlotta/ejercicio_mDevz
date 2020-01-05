@@ -17,7 +17,7 @@ El archivo de la página principal es busqueda.php
 
 ## Aclaracion ##
 
-Notarán que hay una segunda consulta a otro web service que se llama Random_user, rrecurrí a dicho servicio porque se me hizo imposible capturar la imagen que viene en el Json otorgado por Twitter.
+Notarán que hay una segunda consulta a otro web service que se llama Random_user, recurrí a dicho servicio porque se me hizo imposible capturar la imagen que viene en el Json otorgado por Twitter.
 Verán en el el archivo "extraer_datos.php" linea 8, que obtengo la URL pero a la hora de mostrar la imagen no lo hace.
 
 
