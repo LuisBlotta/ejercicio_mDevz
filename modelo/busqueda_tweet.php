@@ -12,8 +12,9 @@ define("LANG", "&lang=es");
 if (!empty($_POST['valorPalabraClaveDefault'])) {
     $busqueda = $_POST['valorPalabraClaveDefault'];
 }elseif(!empty($_POST['valorPalabraClave'])){
-$busquedaSinFiltrar = $_POST['valorPalabraClave'];
-    $busqueda = str_replace(" ", "_", $busquedaSinFiltrar);
+    $busquedaSinFiltrar = $_POST['valorPalabraClave'];
+    $busquedaSinFiltrar2 = str_replace(" ", "_", $busquedaSinFiltrar);
+    $busqueda = str_replace("<", "%", $busquedaSinFiltrar2);
 }else{
 
 header("location:../vista/resultado_busqueda.php?vacio=true");
