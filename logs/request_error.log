@@ -1,8 +1,0 @@
-[2020-01-05 10:40:05]	Request header: GET /1.1/search/tweets.json?q=programacion&count=8&lang=es HTTP/2
-Host: api.twitter.com
-Accept: */*
-Content-Type: application/json
-Authorization: Bearer 2AAAAAAAAAAAAAAAAAAAAAARCBAEAAAAAITZ%2FJsmNHXxKCwx3efP2O3%2B%2FgOY%3DPBL7EMBOR3ry2VpLNfoRBXuImtTYQNJ3ow3T25VtI4CSf2uTRu
-
-
-[2020-01-05 10:40:05]	Response status code: 401

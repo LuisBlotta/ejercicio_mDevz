@@ -86,7 +86,7 @@
         </ul>
     </div>
 </nav>
-<h1><span id="titulo">Search on</span><img class="twitter" src="assets/img/Twitter_Logo_Blue.png" alt=""></h1>
+<h1>Search on <span id="text_twitter">Twitter</span><span id="titulo"><img class="twitter" src="assets/img/Twitter_Logo_Blue.png" alt=""></span> </h1>
 
 <div id="aviso" style="text-align: center; color: red"></div>
 
